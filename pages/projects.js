@@ -118,7 +118,7 @@ export default function Projects({ projects }) {
                     만든 날짜 : 23-07-14
                   </h3>
                   <p class='leading-relaxed text-base'>
-                    동물 보호 캠페인 팀프로젝트 중 '밀렵' 파트를 맡은 부분의
+                    동물 보호 캠페인 팀프로젝트 중 밀렵 파트를 맡은 부분의
                     사이트입니다.
                   </p>
                 </div>
