@@ -11,7 +11,7 @@ export default function Projects({ projects }) {
     <Layout>
       <div className='flex flex-col items-center justify-center min-h-screen px-3 mb-10'>
         <Head>
-          <title>장재원 프로젝트</title>
+          <title>장재원 포트폴리오</title>
           <meta name='description' content='오늘도 빡코딩!' />
           <link rel='icon' href='/favicon.ico' />
         </Head>
