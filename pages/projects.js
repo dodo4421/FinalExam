@@ -139,6 +139,55 @@ export default function Projects({ projects }) {
                   </p>
                 </div>
               </div>
+              <div class='xl:w-1/4 md:w-1/2 p-4'>
+                <div class='bg-gray-100 p-6 rounded-lg'>
+                  <Link
+                    href='https://shop-dodo4421.vercel.app/'
+                    class='text-lg  text-indigo-500 font-medium title-font mb-1'
+                  >
+                    8.
+                  </Link>
+                  <h3 class='tracking-widest text-gray-900 text-xs font-medium title-font mb-4'>
+                    만든 날짜 : 23-10-23
+                  </h3>
+                  <p class='leading-relaxed text-base'>
+                    아마존 쇼핑몰을 모티브로 쇼핑몰 사이트를 제작하였습니다.
+                  </p>
+                </div>
+              </div>
+              <div class='xl:w-1/4 md:w-1/2 p-4'>
+                <div class='bg-gray-100 p-6 rounded-lg'>
+                  <Link
+                    href='https://crud-dusky-five.vercel.app/'
+                    class='text-lg  text-indigo-500 font-medium title-font mb-1'
+                  >
+                    9.
+                  </Link>
+                  <h3 class='tracking-widest text-gray-900 text-xs font-medium title-font mb-4'>
+                    만든 날짜 : 23-11-30
+                  </h3>
+                  <p class='leading-relaxed text-base'>
+                    CRUD 백엔드기반 AddTopic, EditTopic등 기능을 구현하는
+                    사이트를 제작하였습니다.
+                  </p>
+                </div>
+              </div>
+              <div class='xl:w-1/4 md:w-1/2 p-4'>
+                <div class='bg-gray-100 p-6 rounded-lg'>
+                  <Link
+                    href='https://2023-2-weblecture-project-git-ysc-yeo99.vercel.app/'
+                    class='text-lg  text-indigo-500 font-medium title-font mb-1'
+                  >
+                    10.
+                  </Link>
+                  <h3 class='tracking-widest text-gray-900 text-xs font-medium title-font mb-4'>
+                    만든 날짜 : 23-12-10
+                  </h3>
+                  <p class='leading-relaxed text-base'>
+                    웹서버보안프로그래밍 팀프로젝트 사이트입니다.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
         </section>
