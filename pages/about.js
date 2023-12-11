@@ -92,26 +92,12 @@ export default function Projects({ projects }) {
                     AMA 서비스 & 게시판
                   </h3>
                   <div class='my-11'>
-                    <p class='mb-4'>1. 구현 필요 기능 목록 사용자 로그인</p>
-                    <p class='mb-4'>
-                      2. 로그인한 사용자가 링크에 제목달아서 배포 ex https://~~~
-                    </p>
-
-                    <p class='mb-4'>
-                      3. 마이페이지에서 자기가 뿌린 제목, 링크 확인 가능
-                    </p>
-                    <p class='mb-4'>
-                      4. 링크로 접속한 사람은 익명으로 댓글 작성 그 댓글에
-                      호스트 or 익명이 답글 가능
-                    </p>
-                    <p class='mb-4'>
-                      5. 댓글 달 사람들 본인이 댓글 달 때 이름, 비번 설정 해서
-                      댓글 달기
-                    </p>
-                    <p class='mb-4'>
-                      6. 댓글 수정, 삭제 기능 구현, 비번은 댓글마다 할당
-                    </p>
-                    <p class='mb-4'> 7. 배포한 링크에 사용자가 글 작성 가능</p>
+                    <a
+                      href='https://2023-2-weblecture-project-yeo99.vercel.app/'
+                      class='mb-4 grid place-items-center'
+                    >
+                      23.12.10일부 개발 완료
+                    </a>
                   </div>
                 </div>
               </div>
